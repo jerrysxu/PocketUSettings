@@ -9,6 +9,6 @@
 	<key>CourseraCourseURL</key>
 	<string>https://www.coursera.org/maestro/api/topic/list_my?user_id=%@</string>
 	<key>CourseraLectureURL</key>
-	<string>http://localhost:8080/coursera/classes/%d/lectures</string>
+	<string>http://jerryxu.mine.nu:8080/coursera/classes/%d/lectures</string>
 </dict>
 </plist>
